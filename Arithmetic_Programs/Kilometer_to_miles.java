@@ -8,5 +8,6 @@ class Kilometer_to_miles
         float inp = sc.nextFloat();
         float mile = inp*0.621f;
         System.out.println("The value of "+inp+" kilometers in miles is "+mile);
+		System.out.println("helli");
 	}
 }	
